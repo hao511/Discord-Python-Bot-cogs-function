@@ -20,7 +20,7 @@ This is a modular Discord bot built using discord.py, designed with a flexible c
 1. Clone the repository
    ```bash
    git clone https://github.com/hao511/Discord-Python-Bot-cogs-function.git
-   cd discord-bot
+   cd Discord-Python-Bot-cogs-function
    ```
 
 2. Create a virtual environment
